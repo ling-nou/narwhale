@@ -1,0 +1,208 @@
+Uri: http://b.scorecardresearch.com/p?c1=2&c2=6035118&cv=2.0&cj=1
+File Name: C:\Downloaded Web Sites\narwhale.io\p
+Content Type: image/gif
+
+Uri: http://narwhale.io/
+File Name: C:\Downloaded Web Sites\narwhale.io\index.htm
+Content Type: text/html
+
+Uri: http://narwhale.io/app.js?version=4.992
+File Name: C:\Downloaded Web Sites\narwhale.io\app.js
+Content Type: application/javascript
+
+Uri: http://narwhale.io/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\narwhale.io\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: http://narwhale.io/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\narwhale.io\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: http://narwhale.io/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\narwhale.io\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: http://narwhale.io/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\narwhale.io\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: http://narwhale.io/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\narwhale.io\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: http://narwhale.io/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\narwhale.io\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: http://narwhale.io/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\narwhale.io\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: http://narwhale.io/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\narwhale.io\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: http://narwhale.io/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\narwhale.io\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: http://narwhale.io/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\narwhale.io\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: http://narwhale.io/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\narwhale.io\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: http://narwhale.io/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\narwhale.io\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: http://narwhale.io/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\narwhale.io\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: http://narwhale.io/css/main.css?version=1.311
+File Name: C:\Downloaded Web Sites\narwhale.io\css\main.css
+Content Type: text/css
+
+Uri: http://narwhale.io/external/pixi.min.js?version=1.01
+File Name: C:\Downloaded Web Sites\narwhale.io\external\pixi.min.js
+Content Type: application/javascript
+
+Uri: http://narwhale.io/howareyou.js?random=<?php echo uniqid(); ?>
+File Name: C:\Downloaded Web Sites\narwhale.io\howareyou.js
+Content Type: application/javascript
+
+Uri: http://narwhale.io/img/discord.png
+File Name: C:\Downloaded Web Sites\narwhale.io\img\discord.png
+Content Type: image/png
+
+Uri: http://narwhale.io/img/NarwhaleIOlogoMin.gif
+File Name: C:\Downloaded Web Sites\narwhale.io\img\NarwhaleIOlogoMin.gif
+Content Type: image/gif
+
+Uri: http://narwhale.io/img/NarwhaleIOlogoThinMin.gif
+File Name: C:\Downloaded Web Sites\narwhale.io\img\NarwhaleIOlogoThinMin.gif
+Content Type: image/gif
+
+Uri: http://narwhale.io/myicon/android-icon-192x192.png
+File Name: C:\Downloaded Web Sites\narwhale.io\myicon\android-icon-192x192.png
+Content Type: image/png
+
+Uri: http://narwhale.io/myicon/apple-icon-114x114.png
+File Name: C:\Downloaded Web Sites\narwhale.io\myicon\apple-icon-114x114.png
+Content Type: image/png
+
+Uri: http://narwhale.io/myicon/apple-icon-120x120.png
+File Name: C:\Downloaded Web Sites\narwhale.io\myicon\apple-icon-120x120.png
+Content Type: image/png
+
+Uri: http://narwhale.io/myicon/apple-icon-144x144.png
+File Name: C:\Downloaded Web Sites\narwhale.io\myicon\apple-icon-144x144.png
+Content Type: image/png
+
+Uri: http://narwhale.io/myicon/apple-icon-152x152.png
+File Name: C:\Downloaded Web Sites\narwhale.io\myicon\apple-icon-152x152.png
+Content Type: image/png
+
+Uri: http://narwhale.io/myicon/apple-icon-180x180.png
+File Name: C:\Downloaded Web Sites\narwhale.io\myicon\apple-icon-180x180.png
+Content Type: image/png
+
+Uri: http://narwhale.io/myicon/apple-icon-57x57.png
+File Name: C:\Downloaded Web Sites\narwhale.io\myicon\apple-icon-57x57.png
+Content Type: image/png
+
+Uri: http://narwhale.io/myicon/apple-icon-60x60.png
+File Name: C:\Downloaded Web Sites\narwhale.io\myicon\apple-icon-60x60.png
+Content Type: image/png
+
+Uri: http://narwhale.io/myicon/apple-icon-72x72.png
+File Name: C:\Downloaded Web Sites\narwhale.io\myicon\apple-icon-72x72.png
+Content Type: image/png
+
+Uri: http://narwhale.io/myicon/apple-icon-76x76.png
+File Name: C:\Downloaded Web Sites\narwhale.io\myicon\apple-icon-76x76.png
+Content Type: image/png
+
+Uri: http://narwhale.io/myicon/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\narwhale.io\myicon\favicon-16x16.png
+Content Type: image/png
+
+Uri: http://narwhale.io/myicon/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\narwhale.io\myicon\favicon-32x32.png
+Content Type: image/png
+
+Uri: http://narwhale.io/myicon/favicon-96x96.png
+File Name: C:\Downloaded Web Sites\narwhale.io\myicon\favicon-96x96.png
+Content Type: image/png
+
+Uri: http://narwhale.io/myicon/favicon.ico
+File Name: C:\Downloaded Web Sites\narwhale.io\myicon\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://narwhale.io/myicon/manifest.json
+File Name: C:\Downloaded Web Sites\narwhale.io\myicon\manifest.json
+Content Type: application/json
+
+Uri: http://narwhale.io/pages/changelog.html
+File Name: C:\Downloaded Web Sites\narwhale.io\pages\changelog.html
+Content Type: text/html
+
+Uri: http://narwhale.io/pages/contact.html
+File Name: C:\Downloaded Web Sites\narwhale.io\pages\contact.html
+Content Type: text/html
+
+Uri: http://narwhale.io/pages/privacy.html
+File Name: C:\Downloaded Web Sites\narwhale.io\pages\privacy.html
+Content Type: text/html
+
+Uri: http://narwhale.io/pages/terms.html
+File Name: C:\Downloaded Web Sites\narwhale.io\pages\terms.html
+Content Type: text/html
+
+Uri: https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg
+File Name: C:\Downloaded Web Sites\narwhale.io\assets\shared\badges\en-us\appstore-lrg.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\narwhale.io\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\narwhale.io\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\narwhale.io\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\narwhale.io\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\narwhale.io\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\narwhale.io\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\narwhale.io\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png
+File Name: C:\Downloaded Web Sites\narwhale.io\intl\en_us\badges\static\images\badges\en_badge_web_generic.png
+Content Type: image/png
+
+Uri: https://secure-us.imrworldwide.com/cgi-bin/m?ci=us-603339h&cg=0&cc=1&ts=noscript&ja=1
+File Name: C:\Downloaded Web Sites\narwhale.io\cgi-bin\m
+Content Type: image/gif
+
+Uri: https://use.fontawesome.com/e941f14158.js
+File Name: C:\Downloaded Web Sites\narwhale.io\e941f14158.js
+Content Type: text/javascript
+
